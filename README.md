@@ -3,7 +3,9 @@
 ## About
 
 **Career Copilot AI** is an intelligent AI-powered career guidance assistant that helps users navigate their career journey from learning to earning. The platform provides personalized career advice, skill assessments, resume generation, interview preparation, and job market intelligence specifically designed for Gen Z professionals and students.
+- **Demo URL:** https://career-copilot-ai.netlify.app/
 
+![How Meet2Action works](./how-it-works.png)
 
 
 ## How It Works
