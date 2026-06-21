@@ -4,8 +4,7 @@
 
 **Career Copilot AI** is an intelligent AI-powered career guidance assistant that helps users navigate their career journey from learning to earning. The platform provides personalized career advice, skill assessments, resume generation, interview preparation, and job market intelligence specifically designed for Gen Z professionals and students.
 
-### Demo URL
-Your app will be available at: `https://career-copilot-ai.netlify.app`
+
 
 ## How It Works
 
@@ -23,7 +22,7 @@ Career Copilot AI uses an agentic AI flow to orchestrate career planning:
 ## Problem and Solution
 
 ### Problem
-- Many underserved students lack access to career guidance and mentorship [web:8]
+- Many underserved students lack access to career guidance and mentorship
 - Job seekers struggle to customize resumes for specific roles
 - Difficulty identifying skill gaps for target careers
 - Limited access to realistic interview practice
@@ -31,10 +30,10 @@ Career Copilot AI uses an agentic AI flow to orchestrate career planning:
 
 ### Solution
 Career Copilot AI provides:
-- ✅ Personalized career roadmaps based on user skills and goals [web:7]
+- ✅ Personalized career roadmaps based on user skills and goals
 - ✅ AI-generated resumes and cover letters optimized for each job
-- ✅ Skill gap analysis with micro-learning tasks [web:7]
-- ✅ AI mock interviews with instant feedback [web:5]
+- ✅ Skill gap analysis with micro-learning tasks 
+- ✅ AI mock interviews with instant feedback 
 - ✅ Job match scoring for targeted applications
 - ✅ Local LLM usage (free version) for cost-effective AI
 
@@ -43,14 +42,14 @@ Career Copilot AI provides:
 ### Built With:
 | Component | Technology |
 |-----------|-----------|
-| **Frontend** | React + Tailwind CSS + Vite [web:2] |
-| **Backend** | Node.js + Express [web:2] |
-| **LLM** | Meta's LLaMA 3-70B-Instruct (local) [web:2] |
-| **Automation** | n8n (self-hosted) [web:2] |
-| **Storage** | Google Sheets API [web:2] |
-| **PDF Viewer** | react-pdf with overlay support [web:2] |
+| **Frontend** | React + Tailwind CSS + Vite  |
+| **Backend** | Node.js + Express |
+| **LLM** | Meta's LLaMA 3-70B-Instruct (local) |
+| **Automation** | n8n (self-hosted)|
+| **Storage** | Google Sheets API |
+| **PDF Viewer** | react-pdf with overlay support |
 | **Version Control** | Git + GitHub |
-| **Hosting** | Netlify (Frontend) [web:2][web:8] |
+| **Hosting** | Netlify (Frontend) |
 
 ### Technologies Used:
 - **Languages:** JavaScript, TypeScript
