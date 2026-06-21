@@ -1,0 +1,8 @@
+{
+  "name": "AI Career Copilot",
+  "description": "Optimize resumes, generate ATS-friendly resumes, create cover letters, identify resume gaps, and conduct AI-powered mock interviews using voice.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
